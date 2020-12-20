@@ -16,3 +16,6 @@ La DSI a décidé d'utiliser MySQL et Python pour ce projet. MySQL, car Breizhib
 ## Foncionnement de l'application
 ### Lancement
 Pour lancer l'application il suffit d'executer le fichier *main.py* qui se trouve dans le dossier *python*
+
+### Utilisation
+Une fois l'application ouvert vous tomberais sur la page principale
