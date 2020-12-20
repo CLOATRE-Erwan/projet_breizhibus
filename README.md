@@ -19,3 +19,7 @@ Pour lancer l'application il suffit d'executer le fichier *main.py* qui se trouv
 
 ### Utilisation
 Une fois l'application ouvert vous tomberais sur la page principale
+![page principale](/images/page_prin.jpg)
+
+
+A partir de cette page vous pouvaiez soit afficher aller dans la partie affiche : bouton <span style="color:red">List des Arrets ou des bus par ligne</span>.
